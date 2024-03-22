@@ -1,0 +1,58 @@
+
+body{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    margin-left: 20vh;
+}
+
+
+.container-pricipal{
+    margin-left: 20vh;
+}
+
+span{margin-left: 20vh;}
+
+p{font-weight: bold;}
+
+img{margin: 0px 0px 20px 30px;}
+
+input{
+    box-shadow: 0 0 1em rgb(32, 99, 155);
+}
+
+input, button{
+    margin: 0px 0px 2px 0px;
+}
+
+.button-search{
+    border-radius: 50px;
+    width: 120px;
+    margin-left: 27vh;
+}
+
+input{
+    border-radius: 5px;
+    width: 450px;
+    height: 20px;
+}
+
+#menu-rodape ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li{margin-left: 10px;}
+
+footer{
+    margin:10vh 0vh 0vh 30vh;
+}
+
+.span-footer{
+    font-size: 14px;
+    margin-left: 25vh;
+}
